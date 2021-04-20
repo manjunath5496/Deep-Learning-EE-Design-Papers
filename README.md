@@ -4,117 +4,93 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(1).pdf" style="text-decoration:none;">C-LSTM: Enabling Efficient LSTM using Structured Compression Techniques on FPGAs</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(2).pdf" style="text-decoration:none;">Sparse deep predictive coding captures contour integration capabilities of the early visual system</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(3).pdf" style="text-decoration:none;">CHIPKIT: An agile, reusable open-source framework for rapid test chip development</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(4).pdf" style="text-decoration:none;">A Deep Learning Framework for Simulation and Defect Prediction Applied in Microelectronics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(5).pdf" style="text-decoration:none;">A Survey of Deep Learning for Scientific Discovery</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(6).pdf" style="text-decoration:none;">Closing the Analog Design Loop with the Berkeley Analog Generator</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(7).pdf" style="text-decoration:none;">IncPIRD: Fast Learning-Based Prediction of Incremental IR Drop</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(8).pdf" style="text-decoration:none;">A Deep Reinforcement Learning Approach for Global Routing</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(9).pdf" style="text-decoration:none;">Learning to Navigate in CitiesWithout a Map</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(10).pdf" style="text-decoration:none;">Attention Routing: track-assignment detailed routing using attention-based reinforcement learning </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(11).pdf" style="text-decoration:none;">Neural Speech Synthesis with Transformer Network</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(12).pdf" style="text-decoration:none;">Cross-layer Optimization for High Speed Adders: A Pareto Driven Machine Learning Approach</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(13).pdf" style="text-decoration:none;">Low Power Design Automation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(14).pdf" style="text-decoration:none;">DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(15).pdf" style="text-decoration:none;">Painting on Placement: Forecasting Routing Congestion using Conditional Generative Adversarial Nets</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(16).pdf" style="text-decoration:none;">BagNet: Berkeley Analog Generator with Layout Optimizer Boosted with Deep Neural Networks</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(17).pdf" style="text-decoration:none;">AutoPhase: Juggling HLS Phase Orderings in Random Forests with Deep Reinforcement Learning</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(18).pdf" style="text-decoration:none;">End-to-end deep reinforcement
+learning in computer systems</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(19).pdf" style="text-decoration:none;">GAN-CTS: A Generative Adversarial Framework for Clock Tree Prediction and Optimization</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(20).pdf" style="text-decoration:none;">A View on Deep Reinforcement Learning in System Optimization</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(21).pdf" style="text-decoration:none;">Extending High-Level Synthesis for Task-Parallel Programs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(22).pdf" style="text-decoration:none;">GCN-RL Circuit Designer: Transferable Transistor Sizing with Graph Neural Networks and Reinforcement Learning</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(23).pdf" style="text-decoration:none;">GeniusRoute: A New Analog Routing Paradigm Using Generative Neural Network Guidance</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(24).pdf" style="text-decoration:none;">Chip Placement with Deep Reinforcement Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(25).pdf" style="text-decoration:none;">Blockchain-enabled Data Collection and Sharing for Industrial IoT with Deep Reinforcement Learning</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(26).pdf" style="text-decoration:none;">Machine learning enables completely automatic tuning of a quantum device faster than human experts</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(27).pdf" style="text-decoration:none;">Neural Systems for Control</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(28).pdf" style="text-decoration:none;">Performance Estimation of Synthesis Flows cross Technologies using LSTMs and Transfer Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(29).pdf" style="text-decoration:none;">Deep Learning-Driven Simultaneous Layout Decomposition and Mask Optimization </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(30).pdf" style="text-decoration:none;">PRIMAL: Power Inference using Machine Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(31).pdf" style="text-decoration:none;"> Improving predictive mapping of deep-water habitats: Considering multiple model outputs and ensemble techniques</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(32).pdf" style="text-decoration:none;">High Performance Graph Convolutional Networks with Applications in Testability Analysis</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(33).pdf" style="text-decoration:none;">RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(34).pdf" style="text-decoration:none;">PowerPlanningDL: Reliability-Aware Framework for On-Chip Power Grid Design using Deep Learning</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(35).pdf" style="text-decoration:none;">Residual Learning of Video Frame Interpolation Using Convolutional LSTM</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(36).pdf" style="text-decoration:none;">Learning to Design Circuits</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(37).pdf" style="text-decoration:none;">OpenROAD: Toward a Self-Driving, Open-Source Digital Layout Implementation Tool Chain</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(38).pdf" style="text-decoration:none;">Learning-Based CPU Power Modeling</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(39).pdf" style="text-decoration:none;">Building high accuracy emulators for scientific simulations with deep neural architecture search</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(40).pdf" style="text-decoration:none;">Placement Optimization with Deep Reinforcement Learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(41).pdf" style="text-decoration:none;">Understanding Graphs in EDA: From Shallow to Deep Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(42).pdf" style="text-decoration:none;">AutoCkt: Deep Reinforcement Learning of Analog Circuit Designs</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(43).pdf" style="text-decoration:none;">An Imitation Learning Approach for Cache Replacement</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(44).pdf" style="text-decoration:none;">MAGICAL: Toward Fully Automated Analog IC Layout Leveraging Human and Machine Intelligence</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(45).pdf" style="text-decoration:none;">GANVO: Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(46).pdf" style="text-decoration:none;">Approximate Logic Synthesis: A Reinforcement Learning-Based Technology Mapping Approach</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(47).pdf" style="text-decoration:none;">Cyber-secure decentralized energy management for IoT-enabled active distribution networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(48).pdf" style="text-decoration:none;">Challenges and opportunities toward fully automated analog layout design</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(49).pdf" style="text-decoration:none;">RTL to Transistor Level Power Modelling and Estimation Techniques for FPGA and ASIC: A Survey</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(50).pdf" style="text-decoration:none;">A Multidisciplinary Approach for the Development of Smart Distribution Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(51).pdf" style="text-decoration:none;">Template-based PDN Synthesis in Floorplan and Placement Using Classifier and CNN Techniques</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(52).pdf" style="text-decoration:none;">AutoPhase: Compiler Phase-Ordering for High-Level Synthesis with Deep Reinforcement Learning</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(53).pdf" style="text-decoration:none;">Dual Motion GAN for Future-Flow Embedded Video Prediction</a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
 
