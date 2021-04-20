@@ -137,7 +137,7 @@ learning in computer systems</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(75).pdf" style="text-decoration:none;">MC3: A Cloud Caching Strategy for Next Generation Virtual Content Distribution Networks</a></li>                        
 <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(76).pdf" style="text-decoration:none;">Deep-PowerX: A Deep Learning-Based Framework for Low-Power Approximate Logic Synthesis</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(77).pdf" style="text-decoration:none;">Using Crash Hoare Logic for Certifying the FSCQ File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(77).pdf" style="text-decoration:none;">Deep Learning Inversion of Electrical Resistivity Data</a></li> 
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Learning-EE-Design-Papers/blob/master/ee(78).pdf" style="text-decoration:none;">Learning To Route</a></li>
